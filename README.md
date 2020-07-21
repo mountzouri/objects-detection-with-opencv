@@ -1,5 +1,5 @@
 # Objects Detection in video with OpenCV
-This video was created for the Master of Artificial Intelligence, KU Leuven. It is related to a school project of the Master Course entitled: Computer Vision.
+This project was created for the Master of Artificial Intelligence, KU Leuven. It is related to a school project of the Master Course entitled: Computer Vision.
 It contains techniques for grabbing an object by first finding features that capture properties of the object and then use these features to detect it. 
 Image processing techniques are applied to an one minute video, frame by frame, using Python code and OpenCV library. 
 
